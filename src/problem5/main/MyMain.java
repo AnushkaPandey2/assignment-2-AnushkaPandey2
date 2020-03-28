@@ -6,7 +6,7 @@
  */
 package problem5.main;
 import problem5.circularqueue.MyCircularQueue;
- 
+
 //executable class
 public class MyMain {
     public static void main(String[] args) {
